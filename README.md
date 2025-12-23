@@ -1,12 +1,55 @@
-# contatos
+# 📇 App de Contatos — Flutter
 
-Projeto do curso de flutter basico
-(o projeto inclui criar um banco de dados
-relacional SQL, utilizando o SQFLITE) e armazenar
-a lista de contatos
+Aplicativo simples de contatos desenvolvido em **Flutter**, com persistência local utilizando **SQLite (sqflite)**.  
+Projeto criado com foco em aprendizado prático de **CRUD**, navegação entre telas e manipulação de imagens.
 
-O app inclui funções de acesso a camera e acesso a galera
-além de poder ligar para o contato.
+---
+
+## 🚀 Funcionalidades
+
+- ✅ Adicionar novos contatos  
+- ✏️ Editar contatos existentes  
+- 🗑️ Excluir contatos  
+- 📞 Ligar diretamente para o contato  
+- 🖼️ Adicionar foto (câmera ou galeria)  
+- 💾 Persistência local com SQLite  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Flutter  
+- Dart  
+- SQLite (sqflite)  
+- image_picker  
+- mask_text_input_formatter  
+- url_launcher  
+
+---
+
+## 📸 Screenshots
+
+<img src="https://github.com/user-attachments/assets/91b022fa-dc1c-4ee4-8fab-3be89ec06970" width="250"/>
+<img src="https://github.com/user-attachments/assets/09e8a9f0-5a37-4c79-9835-4aa10b94dbd8" width="250"/>
+
+---
+
+## 🧠 Aprendizados
+
+- Implementação de CRUD completo com SQLite  
+- Modelagem de dados e conversão Map ↔ Objeto  
+- Uso de BottomSheet e Dialogs  
+- Navegação entre telas com retorno de dados  
+- Manipulação de imagens no Flutter  
+
+---
+
+## 📌 Status do Projeto
+
+✔️ Finalizado (Projeto de estudo)
+
+---
+
 
 ## Getting Started
 
